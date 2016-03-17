@@ -5,8 +5,8 @@ $newPosition = null;
 $sequence = [];
 $landed = [];
 
-$sizeX = 8;
-$sizeY = 8;
+$sizeX = 6;
+$sizeY = 6;
 
 $complete = $sizeX * $sizeY;
 
